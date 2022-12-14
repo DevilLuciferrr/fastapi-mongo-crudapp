@@ -2,7 +2,7 @@
 fastapi-mongo-crudapp
 Steps to run
 1. Download and install mongodb
-2. Install uvicorn fastapi pydantic cors and React using npm
+2. Install uvicorn fastapi pydantic cors and React using pip
 3. Go to react-sms directory and run command - "npm start"
 4. Go to fastapi directory and run command - "uvicorn index:app --reload"
 
